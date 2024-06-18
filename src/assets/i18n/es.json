@@ -1,5 +1,5 @@
 {
-  "title": "ESPAÑOL",
+  "title": "FC Barcelona - Primer Equipo",
   "menu": {
     "news": "Actualidad",
     "schedule": "Calendario",
@@ -18,5 +18,7 @@
     "accessibility": "Accesibilidad",
     "contact": "Contacta con nosotros",
     "helpCenter": "Centro de ayuda/FAQs"
-  }
+  },
+  "author": "Creado con amor por Brisna Paez 💕",
+  "notFound": "Página no encontrada, intenta con otra ruta"
 }

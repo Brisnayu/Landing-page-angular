@@ -1,0 +1,21 @@
+<main>
+  <div class="container-top">
+    <h1>{{ 'title' | translate }}</h1>
+
+    <div class="container-players">
+      <h2>{{ 'title' | translate }}</h2>
+      <div class="container-buttons">
+        <button>Porteros</button>
+        <button>Defensas</button>
+        <button>Centrocampistas</button>
+        <button>Delanteros</button>
+      </div>
+      <div>
+        <div>Card</div>
+        <app-card-player [players]="infoGoalkeepers"></app-card-player>
+        <app-card-player [players]="infoDefenders"></app-card-player>
+      </div>
+    </div>
+  </div>
+
+</main>
