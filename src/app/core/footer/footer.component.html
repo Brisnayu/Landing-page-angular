@@ -53,7 +53,7 @@
     <h3>FC BARCELONA</h3>
   </div>
   <div class="inf">
-    <p>Realizado con amor por Brisna Paez 💕</p>
+    <p>{{ 'author' | translate }}</p>
     <li *ngFor="let item of menuFooter">
       <a [href]="item.href" target="_blank">{{ item.label | translate }}</a>
     </li>

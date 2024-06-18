@@ -3,11 +3,15 @@
   --color-red: #F8312F;
   --color-purple: #181733;
   --color-yellow: #FDC52C;
+  --color-blue: #154284;
 
   --color-white: whitesmoke;
 
   --gradient-principal: linear-gradient(45deg, rgba(22, 66, 131, 1) 23%, rgba(23, 23, 52, 1) 69%);
   --background-gradient-principal: rgb(22, 66, 131);
+
+  --gradient-secondary: linear-gradient(45deg, rgba(193, 21, 51, 1) 23%, rgba(35, 63, 126, 1) 81%);
+  --background-gradient-secondary: #c11533;
 }
 
 * {
@@ -21,4 +25,9 @@
 
 body {
   font-family: "Open Sans", sans-serif;
+}
+
+main {
+  min-height: 300vh;
+  background: var(--gradient-secondary);
 }

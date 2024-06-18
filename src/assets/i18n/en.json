@@ -1,5 +1,5 @@
 {
-  "title": "ENGLISH",
+  "title": "FC Barcelona - First Team",
   "menu": {
     "news": "News",
     "schedule": "Schedule",
@@ -18,5 +18,7 @@
     "accessibility": "Accessibility",
     "contact": "Contact Us",
     "helpCenter": "Help Center/FAQs"
-  }
+  },
+  "author": "Created with love by Brisna Paez 💕",
+  "notFound": "Page not found, please try another route"
 }
