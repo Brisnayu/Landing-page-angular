@@ -1,7 +1,9 @@
 import { Component } from '@angular/core';
 import { Player } from '../../../models/player.interface';
-import { goalkeepers } from '../../../utils/infoGoalkeepers/goalkeepers';
-import { defenders } from '../../../utils/infoGoalkeepers/defenders';
+import { goalkeepers } from '../../../utils/infoPlayers/goalkeepers';
+import { defenders } from '../../../utils/infoPlayers/defenders';
+import { midfielders } from '../../../utils/infoPlayers/midfielders';
+import { forwards } from '../../../utils/infoPlayers/forwards';
 
 @Component({
   selector: 'app-players',
@@ -11,4 +13,13 @@ import { defenders } from '../../../utils/infoGoalkeepers/defenders';
 export class PlayersComponent {
   infoGoalkeepers: Player[] = goalkeepers;
   infoDefenders: Player[] = defenders;
+  infoMidfielders: Player[] = midfielders;
+  infoForwards: Player[] = forwards;
+
+  public scrollToSelection(section: string) {
+    const item = document.getElementById(section);
+    if (item) {
+      item.scrollIntoView({ behavior: 'smooth' });
+    }
+  }
 }

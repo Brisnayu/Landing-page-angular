@@ -1,18 +1,20 @@
 .container-card {
   display: flex;
   flex-wrap: wrap;
-  // justify-content: center;
-  gap: 20px; 
+  justify-content: center;
+  gap: 20px;
+  padding: 2rem 0;
 }
 
 .container-player {
   position: relative;
-  width: 28%;
+  width: 25%;
   background: var(--gradient-principal);
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease; 
+  transition: transform 0.3s ease;
+  margin: 0 4rem; 
 
   img {
     width: 100%;
@@ -45,6 +47,7 @@
 
     p {
       color: var(--color-yellow);
+      font-weight: bolder;
     }
   }
 
