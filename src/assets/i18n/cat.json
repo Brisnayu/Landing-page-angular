@@ -21,7 +21,10 @@
   },
   "author": "Creat amb amor per Brisna Paez 💕",
   "notFound": "Pàgina no trobada, prova amb una altra ruta",
-  "pagePlayers": {
-    "second-title": ""
+  "buttonsFilter": {
+    "goalkeepers": "Porters",
+    "defenders": "Defenses",
+    "midfielders": "Migcampistes",
+    "forwards": "Davanters"
   }
 }

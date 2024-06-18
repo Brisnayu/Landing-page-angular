@@ -6,6 +6,8 @@ header {
   align-items: center;
   color: var(--color-white);
   padding: 0 2.5rem;
+  position: fixed;
+  z-index: 1000;
 
   .icon {
     width: 7rem;
@@ -24,9 +26,10 @@ header {
   li {
     border-bottom: 4px solid transparent;
     transition: border-bottom 0.5s ease-in-out;
+
+    &:hover {
+      border-bottom: 4px solid var(--color-red);
+    }
   }
 
-  li:hover {
-    border-bottom: 4px solid var(--color-red);
-  }
 }

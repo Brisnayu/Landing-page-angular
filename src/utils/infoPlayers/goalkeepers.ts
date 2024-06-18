@@ -2,6 +2,7 @@ import { Player } from '../../models/player.interface';
 
 export const goalkeepers: Player[] = [
   {
+    id: 1,
     image:
       'https://res.cloudinary.com/dx8j6h1rb/image/upload/v1718709578/Landing-BFC/01-MARC-ANDRE_TER_STEGEN_jfljtn.webp',
     number: 1,
@@ -30,6 +31,7 @@ export const goalkeepers: Player[] = [
     ],
   },
   {
+    id: 2,
     image:
       'https://res.cloudinary.com/dx8j6h1rb/image/upload/v1718709578/Landing-BFC/26-INAKI_PENA_l0s0me.webp',
     number: 13,

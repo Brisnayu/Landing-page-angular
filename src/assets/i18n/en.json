@@ -20,5 +20,11 @@
     "helpCenter": "Help Center/FAQs"
   },
   "author": "Created with love by Brisna Paez 💕",
-  "notFound": "Page not found, please try another route"
+  "notFound": "Page not found, please try another route",
+  "buttonsFilter": {
+    "goalkeepers": "Goalkeepers",
+    "defenders": "Defenders",
+    "midfielders": "Midfielders",
+    "forwards": "Forwards"
+  }
 }

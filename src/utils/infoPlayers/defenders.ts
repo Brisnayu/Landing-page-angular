@@ -2,6 +2,7 @@ import { Player } from '../../models/player.interface';
 
 export const defenders: Player[] = [
   {
+    id: 3,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/f2dec24d-975e-4d4b-b6a6-2a61771e3de3/jugador_fitxa-cancelo.jpg?width=470&height=470',
     number: 2,
@@ -30,6 +31,7 @@ export const defenders: Player[] = [
     ],
   },
   {
+    id: 4,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/993af0d7-2b2c-40d1-9e9b-c24f8d165537/mini_28-BALDE.jpg?width=470&height=470',
     number: 3,
@@ -58,6 +60,7 @@ export const defenders: Player[] = [
     ],
   },
   {
+    id: 5,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/93330ade-5bdf-420a-a989-2c337f8104ca/04-RONALD_ARAUJO_.jpg?width=470&height=470',
     number: 4,
@@ -86,6 +89,7 @@ export const defenders: Player[] = [
     ],
   },
   {
+    id: 6,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/8e1f4a73-cca2-48d8-8e43-655334f27886/jugador_fitxa_inigo_2023.jpg?width=470&height=470',
     number: 5,
@@ -102,6 +106,7 @@ export const defenders: Player[] = [
     ],
   },
   {
+    id: 7,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/3acd07d7-8081-4050-a62c-1c1302038c23/15-ANDREAS_CHRISTENSEN.jpg?width=470&height=470',
     number: 15,
@@ -130,6 +135,7 @@ export const defenders: Player[] = [
     ],
   },
   {
+    id: 8,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/383058f5-1126-48c4-8efd-9c3687de8524/17-MARCOS_ALONSO.jpg?width=470&height=470',
     number: 17,
@@ -152,6 +158,7 @@ export const defenders: Player[] = [
     ],
   },
   {
+    id: 9,
     image:
       'https://www.fcbarcelona.com/photo-resources/2023/10/03/66fdb7c1-455d-45bb-a132-060fca97925e/23-JULES_KOUNDE.jpg?width=470&height=470',
     number: 23,
