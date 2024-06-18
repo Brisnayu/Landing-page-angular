@@ -1,3 +1,22 @@
 {
-  "title": "CATALÀ"
+  "title": "CATALÀ",
+  "menu": {
+    "news": "Actualitat",
+    "schedule": "Calendari",
+    "tickets": "Entrades",
+    "results": "Resultats",
+    "standings": "Classificació",
+    "players": "Jugadors",
+    "photos": "Fotos",
+    "trophies": "Palmarès",
+    "specials": "Especials"
+  },
+  "menuFooter": {
+    "legal": "Termes Legals",
+    "privacy": "Política de Privacitat",
+    "cookies": "Galetes",
+    "accessibility": "Accessibilitat",
+    "contact": "Contacta amb nosaltres",
+    "helpCenter": "Centre d'ajuda/Preguntes Freqüents"
+  }
 }

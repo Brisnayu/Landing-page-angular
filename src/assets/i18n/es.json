@@ -1,3 +1,22 @@
 {
-  "title": "ESPAÑOL"
+  "title": "ESPAÑOL",
+  "menu": {
+    "news": "Actualidad",
+    "schedule": "Calendario",
+    "tickets": "Entradas",
+    "results": "Resultados",
+    "standings": "Clasificación",
+    "players": "Jugadores",
+    "photos": "Fotos",
+    "trophies": "Palmarés",
+    "specials": "Especiales"
+  },
+  "menuFooter": {
+    "legal": "Términos Legales",
+    "privacy": "Política de Privacidad",
+    "cookies": "Cookies",
+    "accessibility": "Accesibilidad",
+    "contact": "Contacta con nosotros",
+    "helpCenter": "Centro de ayuda/FAQs"
+  }
 }
