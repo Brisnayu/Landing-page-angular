@@ -1,3 +1,22 @@
 {
-  "title": "ENGLISH"
+  "title": "ENGLISH",
+  "menu": {
+    "news": "News",
+    "schedule": "Schedule",
+    "tickets": "Tickets",
+    "results": "Results",
+    "standings": "Standings",
+    "players": "Players",
+    "photos": "Photos",
+    "trophies": "Trophies",
+    "specials": "Specials"
+  },
+  "menuFooter": {
+    "legal": "Legal Terms",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies",
+    "accessibility": "Accessibility",
+    "contact": "Contact Us",
+    "helpCenter": "Help Center/FAQs"
+  }
 }

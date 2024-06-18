@@ -16,5 +16,6 @@ export class LanguageComponent {
   public changeLanguage(value: string) {
     this.selectedLanguage = value;
     this.translateService.use(this.selectedLanguage);
+    console.log('estoy cambiando!');
   }
 }
