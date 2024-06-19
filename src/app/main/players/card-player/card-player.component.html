@@ -1,6 +1,6 @@
 <div class="container-card">
   <div class="container-player" *ngFor="let item of players">
-    <img [src]="item.image" alt="icon player" />
+    <img [src]="item.image" alt="icon player" (click)="navigateToDetails(item.id, item)" />
 
     <div class="container-info">
       <p class="personal">{{ item.number }} {{ item.name }} {{ item.lastName }}</p>

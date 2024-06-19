@@ -7,9 +7,10 @@
   padding: 1.5rem;
 
   h1 {
-    color: var(--color-purple);
+    color: var(--color-yellow);
     padding-top: 2rem;
     font-size: 4rem;
+    -webkit-text-stroke: 3px var(--color-purple);
   }
 }
 
@@ -46,4 +47,31 @@
     }
   }
 
+}
+
+@media (max-width: 768px) {
+
+  .container-top {
+    background-image: none;
+    background-color: var(--color-yellow);
+    
+    h1 {
+      font-size: 3rem;
+      padding-bottom: 1rem;
+    }
+  }
+
+  .container-players {
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+
+    h2 {
+      display: none;
+    }
+  }
+
+  .container-buttons {
+    flex-direction: column;
+  }
 }

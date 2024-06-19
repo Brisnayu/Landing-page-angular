@@ -7,7 +7,7 @@ footer {
   flex-direction: column;
   justify-content: space-between;
   gap: 3rem;
-  height: 20vh;
+  height: auto;
   padding: 3rem;
   
 
@@ -33,4 +33,21 @@ footer {
 
 .icon {
   width: 2rem;
+}
+
+@media (max-width: 768px) {
+  footer {
+    height: auto;
+    gap: 2rem;
+
+    .sup {
+      justify-content: center;
+    }
+
+    .inf {
+      flex-direction: column;
+      text-align: center;
+      gap: 10px;
+    }
+  }
 }

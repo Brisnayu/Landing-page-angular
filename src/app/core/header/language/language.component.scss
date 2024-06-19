@@ -18,3 +18,10 @@
   }
 
 }
+
+@media (max-width: 768px) {
+  .language-selector {
+    position: fixed;
+    top: 95%;
+  }
+}

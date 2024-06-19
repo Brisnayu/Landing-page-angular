@@ -4,10 +4,15 @@
   align-items: center;
   justify-content: center;
   gap: 10px;
-  height: 70vh;
+  height: 80vh;
   background: var(--gradient-principal);
 
   img {
     width: 18%;
   }
+
+  h3 {
+    color: var(--color-yellow);
+  }
+
 }

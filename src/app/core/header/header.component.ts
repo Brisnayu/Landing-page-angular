@@ -9,4 +9,9 @@ import { menuHeader } from '../../../utils/menuHeader';
 })
 export class HeaderComponent {
   menuHeader: Links[] = menuHeader;
+  menuOpen: boolean = false;
+
+  toggleMenu() {
+    this.menuOpen = !this.menuOpen;
+  }
 }

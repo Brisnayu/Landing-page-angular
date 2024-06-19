@@ -2,6 +2,7 @@ import { Player } from './player.interface';
 import { PlayerStatistics } from './playerStatistics.interface';
 
 export class PlayerModel implements Player {
+  id: number;
   image: string;
   number: number;
   name: string;
@@ -10,6 +11,7 @@ export class PlayerModel implements Player {
   statistics: PlayerStatistics[];
 
   constructor(player: Player) {
+    this.id = player.id;
     this.image = player.image;
     this.number = player.number;
     this.name = player.name;
