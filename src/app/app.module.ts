@@ -8,10 +8,9 @@ import { TranslateModule } from '@ngx-translate/core';
 import { provideTranslation } from './config/translate-loader.config';
 import { CoreModule } from './core/core.module';
 import { MainModule } from './main/main.module';
-import { PruebaComponent } from './prueba/prueba.component';
 
 @NgModule({
-  declarations: [AppComponent, PruebaComponent],
+  declarations: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
