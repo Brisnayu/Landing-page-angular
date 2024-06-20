@@ -32,6 +32,16 @@
     "titleDateOfBirth": "Date of Birth",
     "titleHeight": "Height",
     "titleWeight": "Weight",
-    "titleDebut": "Club Debut"
+    "titleDebut": "Club Debut",
+    "biography": {
+      "1": {
+        "title": "Sober goalkeeper with great reflexes, stands out for aerial control and mastery of footwork",
+        "content": "Marc-André ter Stegen signed as a goalkeeper for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on April 30, 1992, in the town of Mönchengladbach, the German stood out from a young age as one of the most promising goalkeepers on the European continent."
+      },
+      "2": {
+        "title": "ESTOY EN ingles",
+        "content": "SIGO EN ingles"
+      }
+    }
   }
 }

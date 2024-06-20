@@ -32,6 +32,16 @@
     "titleDateOfBirth": "Data de Naixement",
     "titleHeight": "Alçada",
     "titleWeight": "Pes",
-    "titleDebut": "Debut amb el club"
+    "titleDebut": "Debut amb el club",
+    "biography": {
+      "1": {
+        "title": "Porter sobri i amb grans reflexos, destaca pel control aeri i el domini del joc de peus",
+        "content": "Marc-André ter Stegen va signar com a porter del FC Barcelona a l'estiu de 2014 procedent del Borussia Mönchengladbach. Nascut el 30 d'abril de 1992 a la localitat de Mönchengladbach, l'alemany destacava des de molt jove com un dels porters més prometedors del continent europeu."
+      },
+      "2": {
+        "title": "ESTOY EN catalan",
+        "content": "SIGO EN catalan"
+      }
+    }
   }
 }

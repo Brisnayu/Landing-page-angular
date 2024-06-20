@@ -9,8 +9,11 @@ import { PlayerModel } from '../../../models/player.model';
   styleUrl: './player.component.scss',
 })
 export class PlayerComponent implements OnInit {
-  infoGoalkeepers: PlayerModel | null = null;
+  infoPlayer: PlayerModel | null = null;
   personalInfoArray: { key: string; value: number | string }[] = [];
+
+  titleBiography: string = '';
+  contentBiography: string = '';
 
   constructor(
     private playersService: PlayersService,
@@ -23,8 +26,9 @@ export class PlayerComponent implements OnInit {
 
     this.playersService.getFilePlayers().subscribe(
       data => {
-        this.infoGoalkeepers =
-          data.find(player => player.id === playerId) ?? null;
+        this.infoPlayer = data.find(player => player.id === playerId) ?? null;
+        this.titleBiography = `infoPlayer.biography.${playerId}.title`;
+        this.contentBiography = `infoPlayer.biography.${playerId}.content`;
       },
       error => {
         console.log('Error', error);
