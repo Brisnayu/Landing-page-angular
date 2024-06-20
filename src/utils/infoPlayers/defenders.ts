@@ -29,6 +29,21 @@ export const defenders: Player[] = [
         number: 5,
       },
     ],
+    imagePrincipalDetail:
+      'https://www.fcbarcelona.com/photo-resources/2023/10/04/d780158f-0256-43ab-b2c7-b8445feccd69/mini_01-MARC-ANDRE_TER_STEGEN.png?width=670&height=790',
+    imageBiography:
+      'https://www.fcbarcelona.com/photo-resources/2023/10/03/7d67f42b-2a8d-4e51-8d41-8aa3542482e4/01-MARC-ANDRE_TER_STEGEN.jpg?width=640&height=400',
+    titleBiography:
+      'Portero sobrio y con grandes reflejos, destaca por el control aéreo y el dominio del juego de pies',
+    biography:
+      'Marc-André ter Stegen firma como portero del FC Barcelona en verano de 2014 procedente del Borussia Mönchengladbach. Nacido el día 30 de abril de 1992 en la localidad de Mönchengladbach, el alemán despuntaba desde muy joven como uno de los porteros más prometedores del continente europeo.',
+    personalInformation: {
+      placeOfBirth: 'Mönchengladbach, Germany',
+      dateOfBirth: '30/04/1992',
+      weight: 85,
+      height: 187,
+      clubDebut: '17/09/2014',
+    },
   },
   {
     id: 4,

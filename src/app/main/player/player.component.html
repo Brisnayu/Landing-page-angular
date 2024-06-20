@@ -1,6 +1,65 @@
 <main>
-  <div>
-    <h2>wenas</h2>
+
+  <div class="card-sup">
+
+    <div class="player-info">
+      <img [src]="infoGoalkeepers.imagePrincipalDetail" alt="Player Image" />
+      <h2>{{ infoGoalkeepers.name }} {{ infoGoalkeepers.lastName }}</h2>
+      <h3>{{ infoGoalkeepers.position }}</h3>
+    </div>
+
+
+    <div class="adicional-info">
+      <div *ngFor="let statistics of infoGoalkeepers.statistics" class="statistic">
+        <h2>{{ statistics.title }}</h2>
+        <p>{{ statistics.total }}</p>
+        <h4>{{ statistics.season }}</h4>
+        <p>{{ statistics.number }}</p>
+      </div>
+    </div>
   </div>
-  <h2>hola?</h2>
+
+  <div class="card-inf">
+
+    <div class="card-bio">
+      <img [src]="infoGoalkeepers.imageBiography" alt="Biography Image" />
+      <div>
+        <h3>{{ infoGoalkeepers.titleBiography }}</h3>
+        <p>{{ infoGoalkeepers.biography }}</p>
+      </div>
+    </div>
+
+    <div class="card-personal">
+      <div>
+        <h2>{{ 'infoPlayer.titlePlaceOfBirth' | translate }}</h2>
+        <p>{{ infoGoalkeepers.personalInformation?.placeOfBirth }}</p>
+      </div>
+
+      <div>
+        <h2>{{ 'infoPlayer.titleDateOfBirth' | translate }}</h2>
+        <p>{{ infoGoalkeepers.personalInformation?.dateOfBirth }}</p>
+      </div>
+
+      <div>
+        <h2>{{ 'infoPlayer.titleHeight' | translate }}</h2>
+        <p>{{ infoGoalkeepers.personalInformation?.height }}</p>
+      </div>
+
+      <div>
+        <h2>{{ 'infoPlayer.titleWeight' | translate }}</h2>
+        <p>{{ infoGoalkeepers.personalInformation?.weight }}</p>
+      </div>
+
+      <div>
+        <h2>{{ 'infoPlayer.titleDebut' | translate }}</h2>
+        <p>{{ infoGoalkeepers.personalInformation?.clubDebut }}</p>
+      </div>
+    </div>
+
+  </div>
+
+  <button class="go-back" (click)="goBack()">
+    <img src="../../../assets/icons/back-arrow.png" alt="back arrow" />
+  </button>
+
 </main>

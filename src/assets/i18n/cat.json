@@ -26,5 +26,12 @@
     "defenders": "Defenses",
     "midfielders": "Migcampistes",
     "forwards": "Davanters"
+  },
+  "infoPlayer": {
+    "titlePlaceOfBirth": "Lloc de Naixement",
+    "titleDateOfBirth": "Data de Naixement",
+    "titleHeight": "Alçada",
+    "titleWeight": "Pes",
+    "titleDebut": "Debut amb el club"
   }
 }

@@ -26,5 +26,12 @@
     "defenders": "Defensas",
     "midfielders": "Centrocampistas",
     "forwards": "Delanteros"
+  },
+  "infoPlayer": {
+    "titlePlaceOfBirth": "Lugar de Nacimiento",
+    "titleDateOfBirth": "Fecha de Nacimiento",
+    "titleHeight": "Altura",
+    "titleWeight": "Peso",
+    "titleDebut": "Debut con el club"
   }
 }

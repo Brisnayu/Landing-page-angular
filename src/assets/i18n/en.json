@@ -26,5 +26,12 @@
     "defenders": "Defenders",
     "midfielders": "Midfielders",
     "forwards": "Forwards"
+  },
+  "infoPlayer": {
+    "titlePlaceOfBirth": "Place of Birth",
+    "titleDateOfBirth": "Date of Birth",
+    "titleHeight": "Height",
+    "titleWeight": "Weight",
+    "titleDebut": "Club Debut"
   }
 }

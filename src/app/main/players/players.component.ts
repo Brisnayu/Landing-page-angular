@@ -19,7 +19,11 @@ export class PlayersComponent {
   public scrollToSelection(section: string) {
     const item = document.getElementById(section);
     if (item) {
-      item.scrollIntoView({ behavior: 'smooth' });
+      const redirec = item.getBoundingClientRect().top - 100;
+      window.scroll({
+        top: redirec,
+        behavior: 'smooth',
+      });
     }
   }
 }
