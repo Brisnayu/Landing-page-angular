@@ -1,7 +1,7 @@
-import { Component, OnInit, inject } from '@angular/core';
-import { Player } from '../../../models/player.interface';
-import { defenders } from '../../../utils/infoPlayers/defenders';
-import { Router } from '@angular/router';
+import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
+import { PlayersService } from '../../services/players.service';
+import { PlayerModel } from '../../../models/player.model';
 
 @Component({
   selector: 'app-player',
@@ -9,21 +9,27 @@ import { Router } from '@angular/router';
   styleUrl: './player.component.scss',
 })
 export class PlayerComponent implements OnInit {
-  private router = inject(Router);
-
-  infoGoalkeepers: Player = defenders[0];
+  infoGoalkeepers: PlayerModel | null = null;
   personalInfoArray: { key: string; value: number | string }[] = [];
 
-  constructor() {
-    console.log(this.infoGoalkeepers);
-  }
+  constructor(
+    private playersService: PlayersService,
+    private router: Router,
+    private route: ActivatedRoute,
+  ) {}
 
   ngOnInit() {
-    if (this.infoGoalkeepers.personalInformation) {
-      this.personalInfoArray = Object.entries(
-        this.infoGoalkeepers.personalInformation,
-      ).map(([key, value]) => ({ key, value }));
-    }
+    const playerId = Number(this.route.snapshot.paramMap.get('id'));
+
+    this.playersService.getFilePlayers().subscribe(
+      data => {
+        this.infoGoalkeepers =
+          data.find(player => player.id === playerId) ?? null;
+      },
+      error => {
+        console.log('Error', error);
+      },
+    );
   }
 
   goBack() {

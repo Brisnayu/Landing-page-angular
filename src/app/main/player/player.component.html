@@ -1,5 +1,5 @@
 <main>
-
+  @if (infoGoalkeepers) {
   <div class="card-sup">
 
     <div class="player-info">
@@ -30,10 +30,13 @@
     </div>
 
     <div class="card-personal">
+
+      @if(infoGoalkeepers.personalInformation?.placeOfBirth) {
       <div>
         <h2>{{ 'infoPlayer.titlePlaceOfBirth' | translate }}</h2>
         <p>{{ infoGoalkeepers.personalInformation?.placeOfBirth }}</p>
       </div>
+      }
 
       <div>
         <h2>{{ 'infoPlayer.titleDateOfBirth' | translate }}</h2>
@@ -50,14 +53,18 @@
         <p>{{ infoGoalkeepers.personalInformation?.weight }}</p>
       </div>
 
+      @if(infoGoalkeepers.personalInformation?.clubDebut) {
       <div>
         <h2>{{ 'infoPlayer.titleDebut' | translate }}</h2>
         <p>{{ infoGoalkeepers.personalInformation?.clubDebut }}</p>
       </div>
+      }
+
     </div>
 
   </div>
-
+  }
+  
   <button class="go-back" (click)="goBack()">
     <img src="../../../assets/icons/back-arrow.png" alt="back arrow" />
   </button>

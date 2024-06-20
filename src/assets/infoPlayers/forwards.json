@@ -1,0 +1,183 @@
+[
+  {
+    "id": 17,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/166959ba-fb56-46ae-842b-e778d072ac5a/11-FERRAN_TORRES.jpg?width=470&height=470",
+    "number": 7,
+    "name": "Ferran",
+    "lastName": "Torres",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 113,
+        "season": "2023/2024 Season",
+        "number": 42
+      },
+      {
+        "title": "Barça Goals",
+        "total": 25,
+        "season": "2023/2024 Season",
+        "number": 11
+      },
+      {
+        "title": "Barça Assists",
+        "total": 12,
+        "season": "2023/2024 Season",
+        "number": 3
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/29e19d6b-4a65-4c47-8eee-92ff39d7efee/mini_11-FERRAN_TORRES.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/2490df3e-e60a-4b90-adac-55a6d4a5ac49/11-FERRAN_TORRES.jpg?width=640&height=400",
+    "titleBiography": "Puede ocupar cualquier posición ofensiva, exhibiendo velocidad, verticalidad, calidad e inteligencia",
+    "biography": "Nacido el 29 de febrero del 2000 en Foios (Valencia), Ferran Torres empezó con el fútbol sala en la escuela EPLA y llamó la atención de la cantera del Valencia CF. Con sólo siete años, inició su trayectoria vistiendo la elástica valencianista.",
+    "personalInformation": {
+      "placeOfBirth": "Foios, Spain",
+      "dateOfBirth": "29/02/2000",
+      "weight": 77,
+      "height": 184,
+      "clubDebut": "12/01/2022"
+    }
+  },
+  {
+    "id": 18,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/04101be1-2cef-4fb8-ae97-99a99297f65c/09-ROBERT_LEWANDOWSKI.jpg?width=470&height=470",
+    "number": 9,
+    "name": "Robert",
+    "lastName": "Lewandowski",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 95,
+        "season": "2023/2024 Season",
+        "number": 49
+      },
+      {
+        "title": "Barça Goals",
+        "total": 59,
+        "season": "2023/2024 Season",
+        "number": 26
+      },
+      {
+        "title": "Barça Assists",
+        "total": 17,
+        "season": "2023/2024 Season",
+        "number": 9
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/3bc3ad2a-1ad9-421a-b7b5-67d08e8661eb/mini_09-ROBERT_LEWANDOWSKI.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/828a7bce-f622-464d-8513-7108c6e63fe8/09-ROBERT_LEWANDOWSKI.jpg?width=640&height=400",
+    "titleBiography": "Es uno de los mejores delanteros de la historia del fútbol. El ariete polaco tiene unas estadísticas goleadoras de escándalo tanto en Alemania como en Europa",
+    "biography": "En verano de 2022, Lewandowski decide abandonar la disciplina del Bayern de Múnich, equipo en el que estuvo ocho temporadas, y se incorpora al FC Barcelona. De esta forma, el club azulgrana se hace con un delantero histórico, que tiene unas estadísticas anotadoras de escándalo tanto en Alemania como en Europa.",
+    "personalInformation": {
+      "placeOfBirth": "Warszawa, Poland",
+      "dateOfBirth": "21/08/1988",
+      "weight": 81,
+      "height": 185
+    }
+  },
+  {
+    "id": 19,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/865c65cd-9dc0-41b8-b373-6a922e29d594/22-RAPHINHA.jpg?width=470&height=470",
+    "number": 11,
+    "name": "Raphinha",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 87,
+        "season": "2023/2024 Season",
+        "number": 37
+      },
+      {
+        "title": "Barça Goals",
+        "total": 20,
+        "season": "2023/2024 Season",
+        "number": 10
+      },
+      {
+        "title": "Barça Assists",
+        "total": 23,
+        "season": "2023/2024 Season",
+        "number": 11
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/03/bbc93c05-4499-49e5-bafd-af3c9b49fed4/mini_22-RAPHINHA.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8accdb83-c06d-4dcd-bbd1-c9978690b5cd/22-RAPHINHA.jpg?width=640&height=400",
+    "titleBiography": "Extremo técnico con mucha habilidad para regatear y combinar",
+    "biography": "Raphael Dias Belloli (Raphinha) nació el 14 de diciembre de 1996 en Porto Alegre, Brasil. El jugador llega al Club en verano de 2022 procedente del Leeds United.",
+    "personalInformation": {
+      "dateOfBirth": "14/12/1996",
+      "weight": 68,
+      "height": 176
+    }
+  },
+  {
+    "id": 20,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8a21c5f5-bea0-470e-bd2b-c905aeab7ade/jugador_fitxa-felix.jpg?width=470&height=470",
+    "number": 14,
+    "name": "João",
+    "lastName": "Félix",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 44,
+        "season": "2023/2024 Season",
+        "number": 44
+      },
+      {
+        "title": "Barça Goals",
+        "total": 10,
+        "season": "2023/2024 Season",
+        "number": 10
+      },
+      {
+        "title": "Barça Assists",
+        "total": 6,
+        "season": "2023/2024 Season",
+        "number": 6
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/dec1a673-7e44-4aa5-b722-99ffe97f31ad/jugador_fitxa-felix-mini.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/a59c808c-1068-45bd-a861-db3d785e200a/jugador_fitxa-felix.jpg?width=640&height=400",
+    "titleBiography": "Joao Félix Sequeira (10 de noviembre de 1999) es natural de la localidad de Viseu, Portugal. A poco más de 80km de su ciudad natal dio sus primeros pasos en el fútbol en la academia juvenil del Oporto. Pero puede considerarse que su formación hasta profesional la hizo en Benfica, donde debutó la temporada 2018/2019. Entre todas las competiciones, jugó un total de 43 partidos haciendo grandes actuaciones que le otorgaron el Golden Boy de ese curso.",
+    "personalInformation": {
+      "placeOfBirth": "Viseu, Portugal",
+      "dateOfBirth": "10/11/1999",
+      "weight": 70,
+      "height": 181
+    }
+  },
+  {
+    "id": 21,
+    "image": "https://www.fcbarcelona.com/photo-resources/2024/01/05/1f5ecf24-2a9e-4b96-af12-d22412ee58d2/19-VITOR_ROQUE.jpg?width=470&height=470",
+    "number": 19,
+    "name": "Vitor",
+    "lastName": "Roque",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 16,
+        "season": "2023/2024 Season",
+        "number": 16
+      },
+      {
+        "title": "Barça Goals",
+        "total": 2,
+        "season": "2023/2024 Season",
+        "number": 2
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2024/01/05/e3747361-069f-4698-9b78-79f0e75c4a09/mini_19-VITOR_ROQUE.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2024/01/05/1f5ecf24-2a9e-4b96-af12-d22412ee58d2/19-VITOR_ROQUE.jpg?width=640&height=400",
+    "titleBiography": "Delantero centro muy versátil, con mucha movilidad, capacidad de asociación, velocidad de movimientos y buena relación con el gol",
+    "biography": "Vitor Roque (Timóteo, 28 de febrero de 2005) llegó al Barça en el mercado de invierno de la temporada 2023/24, después de que se anunciara su fichaje en verano de 2023. Llegó procedente del Athletico Paranaense, equipo al que llegó en abril del 2022 y con el que debutó tanto en la Serie A brasileña como en la Copa Libertadores. Previamente, con el Cruzeiro, había debutado en la Serie B, la segunda división del país, con sólo 16 años. Sin embargo, Vitor Roque se formó en el América Mineiro, después de que entrara a formar parte de su fútbol base con 10 años.",
+    "personalInformation": {
+      "dateOfBirth": "28/02/2005",
+      "weight": 78,
+      "height": 174
+    }
+  }
+]
