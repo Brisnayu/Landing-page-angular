@@ -1,0 +1,20 @@
+<div class="container-card">
+  <div class="container-player" *ngFor="let item of players">
+    <img [src]="item.image" alt="icon player" (click)="navigateToDetails(item.id, item)" />
+
+    <div class="container-info">
+      <p class="personal">{{ item.number }} {{ item.name }} {{ item.lastName }}</p>
+      <p>{{ item.position }}</p>
+
+      <div class="adicional-info">
+        <div *ngFor="let statistics of item.statistics" class="statistic">
+          <h5>{{ statistics.title }}</h5>
+          <p>{{ statistics.total }}</p>
+          <h6>{{ statistics.season }}</h6>
+          <p>{{ statistics.number }}</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

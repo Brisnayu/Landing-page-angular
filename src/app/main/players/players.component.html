@@ -1,0 +1,38 @@
+<main>
+  <div class="container-top">
+    <h1>{{ 'title' | translate }}</h1>
+
+    <div class="container-players">
+      <h2>{{ 'title' | translate }}</h2>
+
+      <div class="container-buttons">
+        <button (click)="scrollToSelection('goalkeepers')">{{ 'buttonsFilter.goalkeepers' | translate | uppercase
+          }}</button>
+        <button (click)="scrollToSelection('defenders')">{{ 'buttonsFilter.defenders' | translate | uppercase
+          }}</button>
+        <button (click)="scrollToSelection('midfielders')">{{ 'buttonsFilter.midfielders' | translate | uppercase
+          }}</button>
+        <button (click)="scrollToSelection('forwards')">{{ 'buttonsFilter.forwards' | translate | uppercase }}</button>
+      </div>
+
+      <div>
+        <div>
+          <h3 id="goalkeepers">{{ 'buttonsFilter.goalkeepers' | translate | uppercase }}</h3>
+          <app-card-player [players]="infoGoalkeepers"></app-card-player>
+        </div>
+        <div>
+          <h3 id="defenders">{{ 'buttonsFilter.defenders' | translate | uppercase }}</h3>
+          <app-card-player [players]="infoDefenders"></app-card-player>
+        </div>
+        <div>
+          <h3 id="midfielders">{{ 'buttonsFilter.midfielders' | translate | uppercase }}</h3>
+          <app-card-player [players]="infoMidfielders"></app-card-player>
+        </div>
+        <div>
+          <h3 id="forwards">{{ 'buttonsFilter.forwards' | translate | uppercase }}</h3>
+          <app-card-player [players]="infoForwards"></app-card-player>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

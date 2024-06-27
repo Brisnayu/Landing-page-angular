@@ -1,3 +1,124 @@
 {
-  "title": "ENGLISH"
+  "title": "FC Barcelona - First Team",
+  "menu": {
+    "news": "News",
+    "schedule": "Schedule",
+    "tickets": "Tickets",
+    "results": "Results",
+    "standings": "Standings",
+    "players": "Players",
+    "photos": "Photos",
+    "trophies": "Trophies",
+    "specials": "Specials"
+  },
+  "menuFooter": {
+    "legal": "Legal Terms",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies",
+    "accessibility": "Accessibility",
+    "contact": "Contact Us",
+    "helpCenter": "Help Center/FAQs"
+  },
+  "author": "Created with love by Brisna Paez 💕",
+  "notFound": "Page not found, please try another route",
+  "buttonsFilter": {
+    "goalkeepers": "Goalkeepers",
+    "defenders": "Defenders",
+    "midfielders": "Midfielders",
+    "forwards": "Forwards"
+  },
+  "infoPlayer": {
+    "titlePlaceOfBirth": "Place of Birth",
+    "titleDateOfBirth": "Date of Birth",
+    "titleHeight": "Height",
+    "titleWeight": "Weight",
+    "titleDebut": "Club Debut",
+    "biography": {
+      "1": {
+        "title": "Sober goalkeeper with great reflexes, stands out for aerial control and footwork mastery",
+        "content": "Marc-André ter Stegen signed as a goalkeeper for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on April 30, 1992, in Mönchengladbach, the German stood out from a very young age as one of the most promising goalkeepers on the European continent."
+      },
+      "2": {
+        "title": "Goalkeeper trained at La Masia who excels in security, leadership, and courage under the posts, as well as good ball control",
+        "content": "Born in Alicante in 1999, Iñaki Peña joined Barça from Villarreal in the Infantil category in 2012. During his first season, he already won the league with the Blaugrana team and repeated this achievement in higher categories, notably the Youth League in the 2017/18 season."
+      },
+      "3": {
+        "title": "Master of the right flank with physical exuberance and enviable skill, has played for top European clubs",
+        "content": "Born in Barreiro, Portugal, João Cancelo was born on May 27, 1994. He began his football career in his hometown but made a significant leap three years later by joining Benfica's academy."
+      },
+      "4": {
+        "title": "Physically and technically gifted, Alejandro Balde is an explosive and fast full-back capable of joining the attack",
+        "content": "Alejandro Balde (Barcelona, October 18, 2003) joined Barça in 2011, at the age of eight, from Espanyol's youth system. His generation is that of 2003, but he has always been ahead, playing with Juvenil A while still a Cadet. He has won the league with Benjamín C, Benjamín B, Benjamín A, Alevín C, Alevín A, Infantil B, Infantil A, Cadete B, and Cadete A. The full-back made his first team debut in the penultimate matchday of the 2021/22 league season and, with consistent performances throughout 2022/23, became the starting left-back. He officially joined the first team for the 2023/24 season."
+      },
+      "5": {
+        "title": "Uruguayan center-back with projection, good ball distribution, and aerial dominance",
+        "content": "Ronald Araujo was born in Rivera, Uruguay, on March 7, 1999. The young center-back took his first steps as a professional in his hometown team and then joined the youth ranks of Rentistas, a team in the Second Division of Uruguay."
+      },
+      "6": {
+        "title": "After a decade at the top of Spanish football, Iñigo Martinez has proven to be a center-back with great ball distribution and significant scoring ability despite his position",
+        "content": "Iñigo Martinez Berridi (May 17, 1991) is from the town of Ondarroa, near the border with the province of Gipuzkoa. The location of his hometown might seem anecdotal, but it explains the course of his career up until his arrival at Barça."
+      },
+      "7": {
+        "title": "Center-back with great ball distribution and good defensive reading. Excels at breaking through pressure lines with his passes",
+        "content": "Andreas Christensen (April 10, 1996) was born in Allerød (Denmark), where he began playing football at IF Skjold Birkerød. His progression and good performance caught the attention of Brøndby IF."
+      },
+      "8": {
+        "title": "Very technical full-back or wing-back with a great left foot",
+        "content": "Born in Madrid (December 28, 1990), Marcos Alonso comes from a family with a strong football tradition. His great-grandfather, Luís Zabala; his grandfather, Marcos Alonso Imaz, 'Marquitos'; and his father, Marcos Alonso Peña, all played professionally. Additionally, both his father and great-grandfather wore the Blaugrana shirt at some point."
+      },
+      "9": {
+        "title": "Jules Kounde stands out as a very fast and decisive defender in tackles, with good ball handling",
+        "content": "Jules Kounde was born in Paris on November 12, 1998, to a family of Beninese origin. Although he started playing football in small clubs around Bordeaux, in southwestern France, it wasn't until he was 14 that he passed the trials and joined the youth academy of a professional team, in this case, Girondins de Bordeaux."
+      },
+      "10": {
+        "title": "Midfielder with great technical quality and vision of the game, with character and intensity, making him an important player in the midfield",
+        "content": "Pablo Páez Gavira, known as 'Gavi' (August 5, 2004, Los Palacios y Villafranca) began playing football in various teams until Real Betis finally incorporated him into their squad. In the lower categories of the Seville team, the young Andalusian footballer stood out as one of the most promising players in the country, and after a national tournament, several teams, including Barça, approached him to try to incorporate him into their academy."
+      },
+      "11": {
+        "title": "Fondness for combinative football, the young player has excellent ball control and his pinpoint passes break defensive lines",
+        "content": "On September 2, 2019, FC Barcelona and Las Palmas reached an agreement for the transfer of Pedri. However, the Canarian player did not join the Blaugrana team until August 2020. Born in Tegueste, Tenerife, on November 25, 2002, the Canarian began his football career in his hometown team."
+      },
+      "12": {
+        "title": "A Culer since the 2016/17 season, he has developed at La Masia into a footballer with excellent technique and quality",
+        "content": "Fermín López Marín trained at the Campillo academy, his hometown club, until he signed for Recreativo de Huelva, where he stayed for only a year. Subsequently, in the 2011/12 season, he joined the ranks of Real Betis Balompié. After four years in Seville, he arrived at La Masia to join Infantil A."
+      },
+      "13": {
+        "title": "Trained in the youth categories, he is a player with a powerful physique and great talent who knows Barça's game perfectly",
+        "content": "Oriol Romeu Vidal (September 24, 1991) began playing in Espanyol's youth categories before joining Barça's La Masia in 2004. He developed as a player at the Blaugrana club, progressing through various categories until consolidating in Barça Atlètic under Luis Enrique's management. Additionally, in the 2010/11 season, he played two official matches with Barça's first team, coached by Pep Guardiola."
+      },
+      "14": {
+        "title": "Versatile footballer who shines for his intelligence, technique, and ability to link up play",
+        "content": "At 14 years old, Sergi Roberto, born on February 7, 1992, left Reus to make a strong impact at FC Barcelona's La Masia. Coming from Nàstic de Tarragona, the midfielder steadily progressed until becoming a key player in the B team managed by Luis Enrique, with whom he debuted in the 2009/10 season."
+      },
+      "15": {
+        "title": "Vision of the game, great runs, and versatility in any midfield position",
+        "content": "Frenkie de Jong was born in Arkel (Netherlands) on May 12, 1997. The Dutchman joined Barça in the summer of 2019 after a great season with Ajax Amsterdam, already establishing himself as a midfielder for both the present and future."
+      },
+      "16": {
+        "title": "With extensive experience in elite football, Gündoğan has become a complete midfielder who has maximized his goal-scoring ability",
+        "content": "İlkay Gündoğan (October 24, 1990) was born in Gelsenkirchen (Germany) but has Turkish origins. The midfielder joined Barça in the summer of 2023, after winning the Champions League with Manchester City as captain and a crucial player for the English team."
+      },
+      "17": {
+        "title": "Can play in any offensive position, showcasing speed, directness, quality, and intelligence",
+        "content": "Born on February 29, 2000, in Foios (Valencia), Ferran Torres started with futsal at the EPLA school, catching the attention of Valencia CF's academy. At just seven years old, he began his journey wearing the Valencianista shirt."
+      },
+      "18": {
+        "title": "One of the best forwards in football history. The Polish striker has astounding goal-scoring statistics both in Germany and Europe",
+        "content": "In the summer of 2022, Lewandowski decided to leave Bayern Munich, where he had spent eight seasons, to join FC Barcelona. Thus, the Blaugrana club acquired a historic forward with remarkable goal-scoring statistics in both Germany and Europe."
+      },
+      "19": {
+        "title": "Technical winger with great dribbling and combination skills",
+        "content": "Raphael Dias Belloli (Raphinha) was born on December 14, 1996, in Porto Alegre, Brazil. The player joined the club in the summer of 2022 from Leeds United."
+      },
+      "20": {
+        "title": "Has dazzled the football world with his talent and creative ability in the final third of the pitch",
+        "content": "Joao Félix Sequeira (November 10, 1999) is from Viseu, Portugal. Just over 80 km from his hometown, he took his first steps in football at Porto's youth academy. However, it can be considered that he developed into a professional at Benfica, where he debuted in the 2018/2019 season. Across all competitions, he played a total of 43 matches, delivering outstanding performances that earned him the Golden Boy award that season."
+      },
+      "21": {
+        "title": "Very versatile center-forward, with great mobility, ability to link up play, quick movements, and a good scoring record",
+        "content": "Vitor Roque (Timóteo, February 28, 2005) joined Barça in the winter transfer window of the 2023/24 season, after his signing was announced in the summer of 2023. He came from Athletico Paranaense, a team he joined in April 2022 and with which he debuted in both the Brazilian Serie A and the Copa Libertadores. Previously, with Cruzeiro, he had debuted in Serie B, the country's second division, at just 16 years old. However, Vitor Roque developed at América Mineiro, joining their youth system at the age of 10."
+      }
+    }
+    
+  }
 }

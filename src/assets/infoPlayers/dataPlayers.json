@@ -1,0 +1,765 @@
+[
+  {
+    "id": 1,
+    "image": "https://res.cloudinary.com/dx8j6h1rb/image/upload/v1718709578/Landing-BFC/01-MARC-ANDRE_TER_STEGEN_jfljtn.webp",
+    "number": 1,
+    "name": "Marc-André",
+    "lastName": "ter Stegen",
+    "position": "Goalkeeper",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 413,
+        "season": "2023/2024 Season",
+        "number": 36
+      },
+      {
+        "title": "Barça Clean Sheets",
+        "total": 173,
+        "season": "2023/2024 Season",
+        "number": 17
+      },
+      {
+        "title": "Barça Saves",
+        "total": 962,
+        "season": "2023/2024 Season",
+        "number": 96
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/d780158f-0256-43ab-b2c7-b8445feccd69/mini_01-MARC-ANDRE_TER_STEGEN.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/7d67f42b-2a8d-4e51-8d41-8aa3542482e4/01-MARC-ANDRE_TER_STEGEN.jpg?width=640&height=400",
+    "titleBiography": "Portero sobrio y con grandes reflejos, destaca por el control aéreo y el dominio del juego de pies",
+    "biography": "Marc-André ter Stegen firma como portero del FC Barcelona en verano de 2014 procedente del Borussia Mönchengladbach. Nacido el día 30 de abril de 1992 en la localidad de Mönchengladbach, el alemán despuntaba desde muy joven como uno de los porteros más prometedores del continente europeo.",
+    "personalInformation": {
+      "placeOfBirth": "Mönchengladbach, Germany",
+      "dateOfBirth": "30/04/1992",
+      "weight": 85,
+      "height": 187,
+      "clubDebut": "17/09/2014"
+    }
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/dx8j6h1rb/image/upload/v1718709578/Landing-BFC/26-INAKI_PENA_l0s0me.webp",
+    "number": 13,
+    "name": "Iñaki",
+    "lastName": "Peña",
+    "position": "Goalkeeper",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 22,
+        "season": "2023/2024 Season",
+        "number": 17
+      },
+      {
+        "title": "Barça Clean Sheets",
+        "total": 4,
+        "season": "2023/2024 Season",
+        "number": 3
+      },
+      {
+        "title": "Barça Saves",
+        "total": 46,
+        "season": "2023/2024 Season",
+        "number": 42
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/09/29/329da5c8-7969-46c7-b9ad-ef64d6e49072/mini_26-INAKI_PENA.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/65ae7c6c-8b9a-4d94-94b3-273c30c596a5/26-INAKI_PENA.jpg?width=640&height=400",
+    "titleBiography": "Portero formado en la Masía que destaca por su seguridad, liderazgo y valentía bajo palos y su buen dominio con la pelota",
+    "biography": "Nacido en Alicante en 1999, Iñaki Peña llegó al Barça procedente del Villarreal en la categoría de Infantil en 2012. Durante su primera temporada ya ganó la Liga con el equipo azulgrana y lo repitió durante sus ascensos de categorías, destacando la Youth League de la temporada 2017/18.",
+    "personalInformation": {
+      "placeOfBirth": "Alicante, Spain",
+      "dateOfBirth": "02/03/1999",
+      "weight": 78,
+      "height": 184
+    }
+  },
+  {
+    "id": 3,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/f2dec24d-975e-4d4b-b6a6-2a61771e3de3/jugador_fitxa-cancelo.jpg?width=470&height=470",
+    "number": 2,
+    "name": "João",
+    "lastName": "Cancelo",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 42,
+        "season": "2023/2024 Season",
+        "number": 42
+      },
+      {
+        "title": "Barça Goals",
+        "total": 4,
+        "season": "2023/2024 Season",
+        "number": 4
+      },
+      {
+        "title": "Barça Assists",
+        "total": 5,
+        "season": "2023/2024 Season",
+        "number": 5
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/09/29/6c68dcdd-efa3-4bc9-b38e-acb9bce4b88d/jugador_fitxa-cancelo-mini.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/f2dec24d-975e-4d4b-b6a6-2a61771e3de3/jugador_fitxa-cancelo.jpg?width=640&height=400",
+    "titleBiography": "Dueño y señor del lateral derecho con una exuberancia física y una habilidad envidiable ha pasado por grandes clubs del nivel europeo",
+    "biography": "Natural de Barreiro, Portugal, João Cancelo nació el 27 de mayo de 1994. En su misma localidad natal tuvo sus inicios en el mundo del fútbol, pero tres años más tarde dio un salto cualitativo al incorporarse a la cantera de Benfica.",
+    "personalInformation": {
+      "placeOfBirth": "Barreiro, Portugal",
+      "dateOfBirth": "27/05/1994",
+      "weight": 74,
+      "height": 182
+    }
+  },
+  {
+    "id": 4,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/993af0d7-2b2c-40d1-9e9b-c24f8d165537/mini_28-BALDE.jpg?width=470&height=470",
+    "number": 3,
+    "name": "Alejandro",
+    "lastName": "Balde",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 80,
+        "season": "2023/2024 Season",
+        "number": 28
+      },
+      {
+        "title": "Barça Goals",
+        "total": 2,
+        "season": "2023/2024 Season",
+        "number": 1
+      },
+      {
+        "title": "Barça Assists",
+        "total": 7,
+        "season": "2023/2024 Season",
+        "number": 1
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/03/4dcaaada-4c05-4dd0-90f6-e331b0523bf2/mini_202209_Fitxes_App_1920x1080_01_ALEJANDRO-BALDE.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/e80f5515-86fd-4f2f-98ea-964754a3700f/mini_28-BALDE.jpg?width=640&height=400",
+    "titleBiography": "Dotado física y técnicamente, Alejandro Balde es un lateral explosivo y rápido con capacidad para incorporarse al ataque",
+    "biography": "Alejandro Balde (Barcelona, 18 de octubre de 2003) llega al Barça en 2011, con ocho años, procedente del fútbol base del Espanyol. Su generación es la del 2003, pero siempre ha ido por delante y con edad de Cadete ya disputó partidos con el Juvenil A. Ha sido campeón de Liga con el Benjamín C, el Benjamín B, el Benjamín A, el Alevín C, el Alevín A, el Infantil B, el Infantil A, el Cadete B y el Cadete A. El lateral debuta con el primer equipo la temporada 2021/22 en la penúltima jornada liguera. Y, posteriormente, a base de encadenar buenas actuaciones durante el curso 2022/23, se convierte en el lateral titular. Finalmente, pasa a tener ficha del primer equipo la temporada 2023/24. ",
+    "personalInformation": {
+      "placeOfBirth": "Barcelona, Spain",
+      "dateOfBirth": "18/10/2003",
+      "weight": 69,
+      "height": 175
+    }
+  },
+  {
+    "id": 5,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/93330ade-5bdf-420a-a989-2c337f8104ca/04-RONALD_ARAUJO_.jpg?width=470&height=470",
+    "number": 4,
+    "name": "Ronald",
+    "lastName": "Araujo",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 150,
+        "season": "2023/2024 Season",
+        "number": 37
+      },
+      {
+        "title": "Barça Goals",
+        "total": 8,
+        "season": "2023/2024 Season",
+        "number": 1
+      },
+      {
+        "title": "Barça Assists",
+        "total": 5,
+        "season": "2023/2024 Season",
+        "number": 2
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/03/96872777-182f-413a-8ff0-afc524bec116/mini_04-RONALD_ARAUJO.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/056cd416-68bc-4e1b-b28d-3aad786991aa/04-RONALD_ARAUJO_.jpg?width=640&height=400",
+    "titleBiography": "Central uruguayo con proyección, con buena salida de balón y dominio del juego aéreo",
+    "biography": "Ronald Araujo nació en Rivera, Uruguay, el 7 de marzo de 1999. El joven defensa central da sus primeros pasos como profesional en el equipo de su ciudad, y luego ingresa a las categorías inferiores del Rentistas, equipo de la Segunda División de Uruguay.",
+    "personalInformation": {
+      "placeOfBirth": "Rivera, Uruguay",
+      "dateOfBirth": "07/03/1999",
+      "weight": 79,
+      "height": 188,
+      "clubDebut": "06/10/2019"
+    }
+  },
+  {
+    "id": 6,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8e1f4a73-cca2-48d8-8e43-655334f27886/jugador_fitxa_inigo_2023.jpg?width=470&height=470",
+    "number": 5,
+    "name": "Iñigo",
+    "lastName": "Martínez",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 25,
+        "season": "2023/2024 Season",
+        "number": 25
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/9e2fcd19-c539-4727-b72f-a63c6b25f0d9/mini-i-igo-martinez-silueta-png.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/c944cb0d-785f-4fb8-8df8-d66db299ae29/jugador_fitxa_inigo_2023.jpg?width=640&height=400",
+    "titleBiography": "Después de una década ininterrumpida en la élite del fútbol español, Iñigo Martinez ha demostrado ser un central con una gran salida de balón y una importante capacidad goleadora pese a su posición",
+    "biography": "Iñigo Martinez Berridi (17 de mayo de 1991) es natural de la localidad vizcaína de Ondarroa, prácticamente en la frontera con la provincia de Gipuzkoa. Y la localización de su lugar de origen puede parecer anecdótica, pero hasta su llegada a Can Barça podía explicar exactamente el transcurso de su carrera.",
+    "personalInformation": {
+      "placeOfBirth": "Bilbao, Spain",
+      "dateOfBirth": "17/05/1991",
+      "weight": 76,
+      "height": 182
+    }
+  },
+  {
+    "id": 7,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/3acd07d7-8081-4050-a62c-1c1302038c23/15-ANDREAS_CHRISTENSEN.jpg?width=470&height=470",
+    "number": 15,
+    "name": "Andreas",
+    "lastName": "Christensen",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 74,
+        "season": "2023/2024 Season",
+        "number": 42
+      },
+      {
+        "title": "Barça Goals",
+        "total": 4,
+        "season": "2023/2024 Season",
+        "number": 3
+      },
+      {
+        "title": "Barça Assists",
+        "total": 3,
+        "season": "2023/2024 Season",
+        "number": 2
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/5b875062-ebe3-4c37-ad50-a049fdeaf160/mini_15-ANDREAS_CHRISTENSEN.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/414458b8-82b7-4913-a1ea-839410f6e10f/15-ANDREAS_CHRISTENSEN.jpg?width=640&height=400",
+    "titleBiography": "Central con gran salida de pelota y buena lectura defensiva. Destaca por sus pases que rompen las líneas de presión",
+    "biography": "Andreas Christensen (10 de abril de 1996) nació en Allerød (Dinamarca) donde empezó a jugar a fútbol en el IF Skjold Birkerød. Su progresión y buen rendimiento hizo que se fijara en él el Brøndby IF.",
+    "personalInformation": {
+      "placeOfBirth": "Lillerød, Denmark",
+      "dateOfBirth": "10/04/1996",
+      "weight": 82,
+      "height": 187
+    }
+  },
+  {
+    "id": 8,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/383058f5-1126-48c4-8efd-9c3687de8524/17-MARCOS_ALONSO.jpg?width=470&height=470",
+    "number": 17,
+    "name": "Marcos",
+    "lastName": "Alonso",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 45,
+        "season": "2023/2024 Season",
+        "number": 8
+      },
+      {
+        "title": "Barça Goals",
+        "total": 3,
+        "season": "2023/2024 Season",
+        "number": 0
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/ec0f59e2-01de-423d-9b6d-673500da5c41/mini_17-MARCOS_ALONSO.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/89c528ee-1f80-45af-a555-61169e4d07fe/17-MARCOS_ALONSO.jpg?width=640&height=400",
+    "titleBiography": "Lateral o carrilero muy técnico y con un gran pie izquierdo",
+    "biography": "Natural de Madrid (28 de diciembre de 1990), Marcos Alonso nació en el seno de una familia de gran tradición futbolística. Su bisabuelo, Luís Zabala; su abuelo, Marcos Alonso Imaz, 'Marquitos'; y su padre, Marcos Alonso Peña; jugaron de forma profesional. Además, tanto padre como bisabuelo lo hicieron defendiendo la camiseta azulgrana en alguna ocasión.",
+    "personalInformation": {
+      "placeOfBirth": "Madrid, Spain",
+      "dateOfBirth": "28/12/1990",
+      "weight": 84,
+      "height": 188
+    }
+  },
+  {
+    "id": 9,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/66fdb7c1-455d-45bb-a132-060fca97925e/23-JULES_KOUNDE.jpg?width=470&height=470",
+    "number": 23,
+    "name": "Jules",
+    "lastName": "Kounde",
+    "position": "Defender",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 88,
+        "season": "2023/2024 Season",
+        "number": 48
+      },
+      {
+        "title": "Barça Goals",
+        "total": 3,
+        "season": "2023/2024 Season",
+        "number": 2
+      },
+      {
+        "title": "Barça Assists",
+        "total": 10,
+        "season": "2023/2024 Season",
+        "number": 4
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/03/9f8dcbbb-40d0-4e5f-a007-ecf58b7a6ec1/mini_23-JULES_KOUNDE.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/f776072c-2897-466a-bf43-f088fffa1234/23-JULES_KOUNDE.jpg?width=640&height=400",
+    "titleBiography": "Jules Kounde destaca por ser un defensa muy rápido y expeditivo en el corte, y por su buen trato con el balón",
+    "biography": "Jules Kounde nació en París el 12 de noviembre de 1998, en una familia de origen beninés. Aunque empezó a practicar fútbol en clubes pequeños de los alrededores de la ciudad de Burdeos, en el suroeste de Francia, no fue hasta los 14 años que pasó las pruebas y se incorporó a la cantera de un equipo profesional, en este caso, del Girondins de Burdeos.",
+    "personalInformation": {
+      "placeOfBirth": "Paris, France",
+      "dateOfBirth": "12/11/1998",
+      "weight": 75,
+      "height": 180
+    }
+  },
+  {
+    "id": 10,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/1a22465f-7e9b-463d-981a-908dd221dd88/30-GAVI_.jpg?width=470&height=470",
+    "number": 6,
+    "name": "Gavi",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 111,
+        "season": "2023/2024 Season",
+        "number": 15
+      },
+      {
+        "title": "Barça Goals",
+        "total": 7,
+        "season": "2023/2024 Season",
+        "number": 2
+      },
+      {
+        "title": "Barça Assists",
+        "total": 12,
+        "season": "2023/2024 Season",
+        "number": 1
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/85f70d9d-cda1-49f8-b140-14d82db689e5/mini_30-GAVI.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/31981b2e-6770-4553-b735-214c75b62fb8/30-GAVI_.jpg?width=640&height=400",
+    "titleBiography": "Centrocampista con una gran calidad técnica y visión de juego, con carácter e intensidad, que le convierten en un jugador importante en el medio del campo",
+    "biography": "Pablo Páez Gavira, conocido como 'Gavi' (5 de agosto de 2004, Los Palacios y Villafranca) comienza a jugar a fútbol en diferentes equipos hasta que, finalmente, el Real Betis lo incorpora a su plantel. En las categorías inferiores del conjunto hispalense, el pequeño futbolista andaluz destaca como uno de los jugadores más prometedores del país y, tras un torneo nacional, varios equipos, entre ellos el Barça, se acercan a él para tratar de incorporarlo en su academia.",
+    "personalInformation": {
+      "placeOfBirth": "Los Palacios y Villafranca, Spain",
+      "dateOfBirth": "05/08/2004",
+      "weight": 70,
+      "height": 173
+    }
+  },
+  {
+    "id": 11,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/4b341216-a50a-4d80-95ff-5ca2e5dcf640/08-PEDRI.jpg?width=470&height=470",
+    "number": 8,
+    "name": "Pedri",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 143,
+        "season": "2023/2024 Season",
+        "number": 34
+      },
+      {
+        "title": "Barça Goals",
+        "total": 20,
+        "season": "2023/2024 Season",
+        "number": 4
+      },
+      {
+        "title": "Barça Assists",
+        "total": 13,
+        "season": "2023/2024 Season",
+        "number": 5
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/de9aeea0-9ac0-4f64-b298-4fcc1d36a292/mini_08-PEDRI.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/312eb594-c79b-4c68-8f52-c057faeaf4ca/08-PEDRI.jpg?width=640&height=400",
+    "titleBiography": "Gusto por el fútbol combinativo, el joven futbolista tiene una excelente conducción del balón y sus milimétricos pases rompen líneas defensivas",
+    "biography": "El 2 de septiembre de 2019, el FC Barcelona y Las Palmas llegan a un acuerdo para el traspaso de Pedri. Pero el jugador canario no se incorpora al equipo culé hasta agosto del 2020. Nacido en Tegueste, Tenerife, el 25 de noviembre de 2002, el canario inicia su carrera futbolística en el equipo de su localidad natal. ",
+    "personalInformation": {
+      "placeOfBirth": "Tegueste, Spain",
+      "dateOfBirth": "25/11/2002",
+      "weight": 60,
+      "height": 174,
+      "clubDebut": "27/09/2020"
+    }
+  },
+  {
+    "id": 12,
+    "image": "https://www.fcbarcelona.com/photo-resources/2024/02/01/4594c085-fa9b-4900-816a-8e7c99e2e625/mini_16-FERMIN.jpg?width=470&height=470",
+    "number": 16,
+    "name": "Fermín",
+    "lastName": "López",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 42,
+        "season": "2023/2024 Season",
+        "number": 42
+      },
+      {
+        "title": "Barça Goals",
+        "total": 11,
+        "season": "2023/2024 Season",
+        "number": 11
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2024/02/01/8688e3ca-62dc-4d0a-8cd3-69d06699b124/mini_16-FERMIN.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2024/02/01/4594c085-fa9b-4900-816a-8e7c99e2e625/mini_16-FERMIN.jpg?width=640&height=400",
+    "titleBiography": "Culer desde la temporada 2016/17, se ha forjado en La Masia como un futbolista con una excelente técnica y calidad",
+    "biography": "Fermín López Marín se formó en la cantera del Campillo, club de su ciudad natal, hasta que fichó por el Recreativo de Huelva, donde estuvo solamente un año. Posteriormente, la temporada 2011/12, se unió a las filas del Real Betis Balompié. Pero tras cuatro años en Sevilla, el jugador llegó a la Masía para incorporarse al Infantil A.",
+    "personalInformation": {
+      "placeOfBirth": "El Campillo, Spain",
+      "dateOfBirth": "11/05/2003",
+      "weight": 64,
+      "height": 174
+    }
+  },
+  {
+    "id": 13,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/19b49390-6eb9-49c3-9734-632461612f9b/jugador_fitxa-oriol_romeu.jpg?width=470&height=470",
+    "number": 18,
+    "name": "Oriol",
+    "lastName": "Romeu",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 39,
+        "season": "2023/2024 Season",
+        "number": 37
+      },
+      {
+        "title": "Barça Goals",
+        "total": 1,
+        "season": "2023/2024 Season",
+        "number": 1
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/2e36902e-4203-4be9-a367-29f40fa10951/mini_ORIOL_ROMEU.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/81c5ac8a-5152-46e8-af05-91468ce009e5/jugador_fitxa-oriol_romeu.jpg?width=640&height=400",
+    "titleBiography": "Formado en las categorías inferiores, es un jugador con un físico potente y un gran talento que conoce a la perfección el juego del Barça",
+    "biography": "Oriol Romeu Vidal (24 de septiembre de 1991) empezó a jugar en las categorías inferiores del Espanyol antes de entrar en la Masía del Barça en 2004. En el club azulgrana se fue formando como jugador y pasó por las distintas categorías hasta consolidarse en el Barça Atlètic dirigido por Luis Enrique. Además, en la temporada 2010/11 disputó dos partidos oficiales con el primer equipo del Barça, con Pep Guardiola al frente.",
+    "personalInformation": {
+      "placeOfBirth": "Ulldecona, Spain",
+      "dateOfBirth": "24/09/1991",
+      "weight": 83,
+      "height": 183
+    }
+  },
+  {
+    "id": 14,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/b30938f8-9ce1-4a72-be4a-bac6346abf13/20-S_ROBERTO.jpg?width=470&height=470",
+    "number": 20,
+    "name": "Sergi",
+    "lastName": "Roberto",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 373,
+        "season": "2023/2024 Season",
+        "number": 24
+      },
+      {
+        "title": "Barça Goals",
+        "total": 19,
+        "season": "2023/2024 Season",
+        "number": 3
+      },
+      {
+        "title": "Barça Assists",
+        "total": 43,
+        "season": "2023/2024 Season",
+        "number": 3
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/3d2bc665-d644-42e6-a484-4447947205ac/mini_20-S_ROBERTO.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/d07ea506-60fb-4beb-a016-ba22d7a18b6e/20-S_ROBERTO.jpg?width=640&height=400",
+    "titleBiography": "Futbolista polivalente que brilla por su inteligencia, técnica y capacidad de asociación",
+    "biography": "Con 14 años Sergi Roberto, nacido el 7 de febrero de 1992, abandona Reus para pisar con fuerza en la Masia del FC Barcelona. Procedente del Nàstic de Tarragona, el centrocampista se va consolidando etapa tras etapa hasta convertirse en una pieza fija en el esquema del filial dirigido por Luis Enrique, equipo con el que debuta la temporada 2009/10.",
+    "personalInformation": {
+      "placeOfBirth": "Reus, Spain",
+      "dateOfBirth": "07/02/1992",
+      "weight": 68,
+      "height": 178,
+      "clubDebut": "10/11/2010"
+    }
+  },
+  {
+    "id": 15,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/d2214796-ebc8-4b1c-bb5d-37f2ce5883c7/21-FRENKIE_DE_JONG.jpg?width=470&height=470",
+    "number": 21,
+    "name": "Frenkie",
+    "lastName": "de Jong",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 213,
+        "season": "2023/2024 Season",
+        "number": 30
+      },
+      {
+        "title": "Barça Goals",
+        "total": 17,
+        "season": "2023/2024 Season",
+        "number": 2
+      },
+      {
+        "title": "Barça Assists",
+        "total": 19,
+        "season": "2023/2024 Season",
+        "number": 0
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/e666a68c-84f4-49bd-b4d3-111d0d8d050f/mini_21-FRENKIE_DE_JONG.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8faa89e1-0979-4adf-a2f7-ef5fe5ac8882/21-FRENKIE_DE_JONG.jpg?width=640&height=400",
+    "titleBiography": "Visión de juego, gran cabalgata y polivalencia en cualquier posición del centro del campo",
+    "biography": "Frenkie de Jong nace en Arkel (Países Bajos) el 12 de mayo de 1997. El holandés llega al Barça en verano de 2019 después de una gran campaña con el Ajax de Amsterdam, consolidándose ya como un centrocampista de presente y futuro",
+    "personalInformation": {
+      "placeOfBirth": "Arkel, Netherlands",
+      "dateOfBirth": "12/05/1997",
+      "weight": 74,
+      "height": 181,
+      "clubDebut": "16/08/2019"
+    }
+  },
+  {
+    "id": 16,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/3f3b9374-b75e-43f7-9e3e-ceddd9dc211d/jugador_fitxa-gundogan.jpg?width=470&height=470",
+    "number": 22,
+    "name": "Ilkay",
+    "lastName": "Gündogan",
+    "position": "Midfielders",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 51,
+        "season": "2023/2024 Season",
+        "number": 51
+      },
+      {
+        "title": "Barça Goals",
+        "total": 5,
+        "season": "2023/2024 Season",
+        "number": 5
+      },
+      {
+        "title": "Barça Assists",
+        "total": 14,
+        "season": "2023/2024 Season",
+        "number": 14
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/5ee7fc16-bf9c-4f7b-be59-2dc18e440ebe/mini_gundogan.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/0f384b06-9ea4-4b26-8a21-02f23d564463/jugador_fitxa-gundogan.jpg?width=640&height=400",
+    "titleBiography": "Con una gran experiencia en el futbol de élite, Gündoğan se ha convertido en un centrocampista total y que ha explotado al máximo su capacidad goleadora",
+    "biography": "İlkay Gündoğan (24 de octubre de 1990) es nacido en Gelsenkirchen (Alemania), pero con orígenes turcos. El centrocampista llega al Barça el verano de 2023, tras proclamarse campeón de la Champions con el Manchester City siendo el capitán y una pieza muy importante para el equipo inglés.",
+    "personalInformation": {
+      "placeOfBirth": "Gelsenkirchen, Germany",
+      "dateOfBirth": "24/10/1990",
+      "weight": 80,
+      "height": 180
+    }
+  },
+  {
+    "id": 17,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/166959ba-fb56-46ae-842b-e778d072ac5a/11-FERRAN_TORRES.jpg?width=470&height=470",
+    "number": 7,
+    "name": "Ferran",
+    "lastName": "Torres",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 113,
+        "season": "2023/2024 Season",
+        "number": 42
+      },
+      {
+        "title": "Barça Goals",
+        "total": 25,
+        "season": "2023/2024 Season",
+        "number": 11
+      },
+      {
+        "title": "Barça Assists",
+        "total": 12,
+        "season": "2023/2024 Season",
+        "number": 3
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/29e19d6b-4a65-4c47-8eee-92ff39d7efee/mini_11-FERRAN_TORRES.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/2490df3e-e60a-4b90-adac-55a6d4a5ac49/11-FERRAN_TORRES.jpg?width=640&height=400",
+    "titleBiography": "Puede ocupar cualquier posición ofensiva, exhibiendo velocidad, verticalidad, calidad e inteligencia",
+    "biography": "Nacido el 29 de febrero del 2000 en Foios (Valencia), Ferran Torres empezó con el fútbol sala en la escuela EPLA y llamó la atención de la cantera del Valencia CF. Con sólo siete años, inició su trayectoria vistiendo la elástica valencianista.",
+    "personalInformation": {
+      "placeOfBirth": "Foios, Spain",
+      "dateOfBirth": "29/02/2000",
+      "weight": 77,
+      "height": 184,
+      "clubDebut": "12/01/2022"
+    }
+  },
+  {
+    "id": 18,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/04101be1-2cef-4fb8-ae97-99a99297f65c/09-ROBERT_LEWANDOWSKI.jpg?width=470&height=470",
+    "number": 9,
+    "name": "Robert",
+    "lastName": "Lewandowski",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 95,
+        "season": "2023/2024 Season",
+        "number": 49
+      },
+      {
+        "title": "Barça Goals",
+        "total": 59,
+        "season": "2023/2024 Season",
+        "number": 26
+      },
+      {
+        "title": "Barça Assists",
+        "total": 17,
+        "season": "2023/2024 Season",
+        "number": 9
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/3bc3ad2a-1ad9-421a-b7b5-67d08e8661eb/mini_09-ROBERT_LEWANDOWSKI.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/828a7bce-f622-464d-8513-7108c6e63fe8/09-ROBERT_LEWANDOWSKI.jpg?width=640&height=400",
+    "titleBiography": "Es uno de los mejores delanteros de la historia del fútbol. El ariete polaco tiene unas estadísticas goleadoras de escándalo tanto en Alemania como en Europa",
+    "biography": "En verano de 2022, Lewandowski decide abandonar la disciplina del Bayern de Múnich, equipo en el que estuvo ocho temporadas, y se incorpora al FC Barcelona. De esta forma, el club azulgrana se hace con un delantero histórico, que tiene unas estadísticas anotadoras de escándalo tanto en Alemania como en Europa.",
+    "personalInformation": {
+      "placeOfBirth": "Warszawa, Poland",
+      "dateOfBirth": "21/08/1988",
+      "weight": 81,
+      "height": 185
+    }
+  },
+  {
+    "id": 19,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/865c65cd-9dc0-41b8-b373-6a922e29d594/22-RAPHINHA.jpg?width=470&height=470",
+    "number": 11,
+    "name": "Raphinha",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 87,
+        "season": "2023/2024 Season",
+        "number": 37
+      },
+      {
+        "title": "Barça Goals",
+        "total": 20,
+        "season": "2023/2024 Season",
+        "number": 10
+      },
+      {
+        "title": "Barça Assists",
+        "total": 23,
+        "season": "2023/2024 Season",
+        "number": 11
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/03/bbc93c05-4499-49e5-bafd-af3c9b49fed4/mini_22-RAPHINHA.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8accdb83-c06d-4dcd-bbd1-c9978690b5cd/22-RAPHINHA.jpg?width=640&height=400",
+    "titleBiography": "Extremo técnico con mucha habilidad para regatear y combinar",
+    "biography": "Raphael Dias Belloli (Raphinha) nació el 14 de diciembre de 1996 en Porto Alegre, Brasil. El jugador llega al Club en verano de 2022 procedente del Leeds United.",
+    "personalInformation": {
+      "dateOfBirth": "14/12/1996",
+      "weight": 68,
+      "height": 176
+    }
+  },
+  {
+    "id": 20,
+    "image": "https://www.fcbarcelona.com/photo-resources/2023/10/03/8a21c5f5-bea0-470e-bd2b-c905aeab7ade/jugador_fitxa-felix.jpg?width=470&height=470",
+    "number": 14,
+    "name": "João",
+    "lastName": "Félix",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 44,
+        "season": "2023/2024 Season",
+        "number": 44
+      },
+      {
+        "title": "Barça Goals",
+        "total": 10,
+        "season": "2023/2024 Season",
+        "number": 10
+      },
+      {
+        "title": "Barça Assists",
+        "total": 6,
+        "season": "2023/2024 Season",
+        "number": 6
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2023/10/04/dec1a673-7e44-4aa5-b722-99ffe97f31ad/jugador_fitxa-felix-mini.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2023/10/03/a59c808c-1068-45bd-a861-db3d785e200a/jugador_fitxa-felix.jpg?width=640&height=400",
+    "titleBiography": "Ha deslumbrado al mundo del fútbol con su talento y capacidad creativa en el tercio final del campo",
+    "biography": "Joao Félix Sequeira (10 de noviembre de 1999) es natural de la localidad de Viseu, Portugal. A poco más de 80km de su ciudad natal dio sus primeros pasos en el fútbol en la academia juvenil del Oporto. Pero puede considerarse que su formación hasta profesional la hizo en Benfica, donde debutó la temporada 2018/2019. Entre todas las competiciones, jugó un total de 43 partidos haciendo grandes actuaciones que le otorgaron el Golden Boy de ese curso.",
+    "personalInformation": {
+      "placeOfBirth": "Viseu, Portugal",
+      "dateOfBirth": "10/11/1999",
+      "weight": 70,
+      "height": 181
+    }
+  },
+  {
+    "id": 21,
+    "image": "https://www.fcbarcelona.com/photo-resources/2024/01/05/1f5ecf24-2a9e-4b96-af12-d22412ee58d2/19-VITOR_ROQUE.jpg?width=470&height=470",
+    "number": 19,
+    "name": "Vitor",
+    "lastName": "Roque",
+    "position": "Forward",
+    "statistics": [
+      {
+        "title": "Barça Appearances",
+        "total": 16,
+        "season": "2023/2024 Season",
+        "number": 16
+      },
+      {
+        "title": "Barça Goals",
+        "total": 2,
+        "season": "2023/2024 Season",
+        "number": 2
+      }
+    ],
+    "imagePrincipalDetail": "https://www.fcbarcelona.com/photo-resources/2024/01/05/e3747361-069f-4698-9b78-79f0e75c4a09/mini_19-VITOR_ROQUE.png?width=670&height=790",
+    "imageBiography": "https://www.fcbarcelona.com/photo-resources/2024/01/05/1f5ecf24-2a9e-4b96-af12-d22412ee58d2/19-VITOR_ROQUE.jpg?width=640&height=400",
+    "titleBiography": "Delantero centro muy versátil, con mucha movilidad, capacidad de asociación, velocidad de movimientos y buena relación con el gol",
+    "biography": "Vitor Roque (Timóteo, 28 de febrero de 2005) llegó al Barça en el mercado de invierno de la temporada 2023/24, después de que se anunciara su fichaje en verano de 2023. Llegó procedente del Athletico Paranaense, equipo al que llegó en abril del 2022 y con el que debutó tanto en la Serie A brasileña como en la Copa Libertadores. Previamente, con el Cruzeiro, había debutado en la Serie B, la segunda división del país, con sólo 16 años. Sin embargo, Vitor Roque se formó en el América Mineiro, después de que entrara a formar parte de su fútbol base con 10 años.",
+    "personalInformation": {
+      "dateOfBirth": "28/02/2005",
+      "weight": 78,
+      "height": 174
+    }
+  }
+]

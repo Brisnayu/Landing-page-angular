@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 import { TranslateModule } from '@ngx-translate/core';
 import { provideTranslation } from './config/translate-loader.config';
+import { CoreModule } from './core/core.module';
+import { MainModule } from './main/main.module';
 
 @NgModule({
   declarations: [AppComponent],
@@ -14,8 +16,9 @@ import { provideTranslation } from './config/translate-loader.config';
     AppRoutingModule,
     HttpClientModule,
     TranslateModule.forRoot(provideTranslation()),
+    CoreModule,
+    MainModule,
   ],
-  providers: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

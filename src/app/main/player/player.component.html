@@ -1,0 +1,75 @@
+<main>
+  <div *ngIf="loading" class="spinner-overlay">
+    <app-spinner></app-spinner>
+  </div>
+  @if (infoPlayer) {
+  <div class="card-sup">
+
+    <div class="player-info">
+      <img [src]="infoPlayer.imagePrincipalDetail" alt="Player Image" />
+      <h2>{{ infoPlayer.name }} {{ infoPlayer.lastName }}</h2>
+      <h3>{{ infoPlayer.position }}</h3>
+    </div>
+
+
+    <div class="adicional-info">
+      <div *ngFor="let statistics of infoPlayer.statistics" class="statistic">
+        <h2>{{ statistics.title }}</h2>
+        <p>{{ statistics.total }}</p>
+        <h4>{{ statistics.season }}</h4>
+        <p>{{ statistics.number }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-inf">
+
+    <div class="card-bio">
+      <img [src]="infoPlayer.imageBiography" alt="Biography Image" />
+      <div>
+        <h3>{{ titleBiography | translate }}</h3>
+        <p>{{ contentBiography | translate }}</p>
+      </div>
+    </div>
+
+    <div class="card-personal">
+
+      @if(infoPlayer.personalInformation?.placeOfBirth) {
+      <div>
+        <h2>{{ 'infoPlayer.titlePlaceOfBirth' | translate }}</h2>
+        <p>{{ infoPlayer.personalInformation?.placeOfBirth }}</p>
+      </div>
+      }
+
+      <div>
+        <h2>{{ 'infoPlayer.titleDateOfBirth' | translate }}</h2>
+        <p>{{ infoPlayer.personalInformation?.dateOfBirth }}</p>
+      </div>
+
+      <div>
+        <h2>{{ 'infoPlayer.titleHeight' | translate }}</h2>
+        <p>{{ infoPlayer.personalInformation?.height }} cm</p>
+      </div>
+
+      <div>
+        <h2>{{ 'infoPlayer.titleWeight' | translate }}</h2>
+        <p>{{ infoPlayer.personalInformation?.weight }} kg</p>
+      </div>
+
+      @if(infoPlayer.personalInformation?.clubDebut) {
+      <div>
+        <h2>{{ 'infoPlayer.titleDebut' | translate }}</h2>
+        <p>{{ infoPlayer.personalInformation?.clubDebut }}</p>
+      </div>
+      }
+
+    </div>
+
+  </div>
+  }
+
+  <button class="go-back" (click)="goBack()">
+    <img src="../../../assets/icons/back-arrow.png" alt="back arrow" />
+  </button>
+
+</main>
