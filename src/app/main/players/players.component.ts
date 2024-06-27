@@ -1,11 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 import { PlayersService } from '../../services/players.service';
 import { PlayerModel } from '../../../models/player.model';
+import { IPlayerService } from '../../../contracts/IPlayerService';
 
 @Component({
   selector: 'app-players',
   templateUrl: './players.component.html',
   styleUrl: './players.component.scss',
+  providers: [{ provide: IPlayerService, useClass: PlayersService }],
 })
 export class PlayersComponent implements OnInit {
   infoGoalkeepers: PlayerModel[] = [];
@@ -13,7 +15,7 @@ export class PlayersComponent implements OnInit {
   infoMidfielders: PlayerModel[] = [];
   infoForwards: PlayerModel[] = [];
 
-  constructor(private playersService: PlayersService) {}
+  constructor(private playersService: IPlayerService) {}
 
   ngOnInit(): void {
     this.playersService.getFilePlayers().subscribe(

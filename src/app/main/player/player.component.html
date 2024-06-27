@@ -1,4 +1,7 @@
 <main>
+  <div *ngIf="loading" class="spinner-overlay">
+    <app-spinner></app-spinner>
+  </div>
   @if (infoPlayer) {
   <div class="card-sup">
 

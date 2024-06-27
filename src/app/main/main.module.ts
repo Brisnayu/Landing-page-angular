@@ -5,6 +5,7 @@ import { PlayerComponent } from './player/player.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { TranslateModule } from '@ngx-translate/core';
 import { CardPlayerComponent } from './players/card-player/card-player.component';
+import { SpinnerComponent } from '../component/spinner/spinner.component';
 
 @NgModule({
   declarations: [
@@ -12,6 +13,7 @@ import { CardPlayerComponent } from './players/card-player/card-player.component
     PlayerComponent,
     NotFoundComponent,
     CardPlayerComponent,
+    SpinnerComponent,
   ],
   imports: [CommonModule, TranslateModule],
 })

@@ -19,7 +19,6 @@ import { MainModule } from './main/main.module';
     CoreModule,
     MainModule,
   ],
-  providers: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
