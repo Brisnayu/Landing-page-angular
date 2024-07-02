@@ -20,6 +20,7 @@ export class PlayersComponent implements OnInit {
   ngOnInit(): void {
     this.playersService.getFilePlayers().subscribe(
       data => {
+        console.log('DENTRO DE PLAYERS', data);
         this.infoGoalkeepers = data.filter(
           player => player.position === 'Goalkeeper',
         );
